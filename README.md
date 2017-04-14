@@ -1,6 +1,6 @@
 # dlnd-cifar10
 
-![alt tag](http://http://karpathy.github.io/assets/cifar_preview.png)
+![alt tag](http://karpathy.github.io/assets/cifar_preview.png)
 
 In this project, we will classify images from the CIFAR-10 dataset.
 
